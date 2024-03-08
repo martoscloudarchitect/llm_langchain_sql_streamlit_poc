@@ -3,3 +3,5 @@ This notebook is meant for Proof of Concept (PoC). It aims at using Azure OpenAI
 
 ![image](https://github.com/martoscloudarchitect/llm_langchain_sql_streamlit_poc/assets/127968669/ddf14240-aaac-4f6f-a61d-84cd8847143b)
 
+![image](https://github.com/martoscloudarchitect/llm_langchain_sql_streamlit_poc/assets/127968669/5e015749-2b33-4c42-92c9-4d37cc71e5b6)
+
